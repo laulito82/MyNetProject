@@ -8,7 +8,6 @@ namespace MyNetProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Godbye World!");
-            Console.WriteLine("meeeh");
         }
     }
 }
