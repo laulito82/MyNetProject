@@ -9,6 +9,7 @@ namespace MyNetProject
             Console.WriteLine("Hello World!");
             Console.WriteLine("Goodbye World!");
             Console.WriteLine("zup!");
+            Console.WriteLine("Raul testing to see if it gets updated");
         }
     }
 }
